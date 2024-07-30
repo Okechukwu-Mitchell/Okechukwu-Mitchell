@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okechukwu-Mitchell
 - 👀 I’m interested in software develpoment
-- 🌱 I’m currently learning C# and other languages
+- 🌱 I’m through with learning C#, Javascript and I am trying to explore other languages
 - 💞️ I’m looking to collaborate on any project that can give me more knowledge and make me better in coding
 - 📫 How to reach me ... emperormitchell@yahoo.com
 
