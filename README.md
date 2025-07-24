@@ -9,6 +9,7 @@
 - Business process automation
 - Cloud-based garage management solution
 - Forklift service management platform
+- Industry-specific service management software solutions
 - CV/resume generators
 - Training and certification management systems
 - Real-time dashboards
