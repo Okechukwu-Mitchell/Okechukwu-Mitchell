@@ -5,15 +5,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A6B3C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+scalable+.NET+applications+%F0%9F%9A%80;3%2B+years+in+veterinary%2C+automotive+%26+logistics+tech;Clean+code+%7C+Efficient+APIs+%7C+Real+impact" alt="Typing SVG" /></a>
 <br/>
 <!-- Badges Row 1 -->
-![LinkedIn](https://img.shields.io/badge/LinkedIn-okechukwu--ogbuabor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Okechukwu--Mitchell-181717?style=for-the-badge&logo=github&logoColor=white)
-![Email](https://img.shields.io/badge/Email-okechukwumitchell32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Location](https://img.shields.io/badge/Lagos-Nigeria-1a6b3c?style=for-the-badge&logo=googlemaps&logoColor=white)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-okechukwu--ogbuabor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-Okechukwu--Mitchell-181717?style=for-the-badge&logo=github&logoColor=white)
+[Email](https://img.shields.io/badge/Email-okechukwumitchell32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[Location](https://img.shields.io/badge/Lagos-Nigeria-1a6b3c?style=for-the-badge&logo=googlemaps&logoColor=white)
 <br/>
 <!-- Open to Work Badge -->
-![Open to Work](https://img.shields.io/badge/🟢%20Status-Open%20to%20Opportunities-brightgreen?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square)
-![Projects](https://img.shields.io/badge/Live%20Projects-4-orange?style=flat-square)
+[Open to Work](https://img.shields.io/badge/🟢%20Status-Open%20to%20Opportunities-brightgreen?style=flat-square)
+[Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square)
+[Projects](https://img.shields.io/badge/Live%20Projects-4-orange?style=flat-square)
 </div>
 ---
 👨‍💻 About Me
