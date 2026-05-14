@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a6b3c&height=180&section=header&text=Okechukwu%20Mitchell%20Ogbuabor&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=ASP.NET%20Core%20Developer%20%7C%20Backend%20Engineer&descAlignY=62&descColor=c8ecd9" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A6B3C&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+scalable+.NET+applications+%F0%9F%9A%80;3%2B+years+in+veterinary%2C+automotive+%26+logistics+tech;Clean+code+%7C+Efficient+APIs+%7C+Real+impact" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A6B3C&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+scalable+.NET+applications+%F0%9F%9A%80;3%2B+years+in+veterinary%2C+automotive+%26+logistics+tech;Clean+code+%7C+Efficient+APIs+%7C+Real+impact" alt="Typing SVG" /></a>
 
 <br/>
 
