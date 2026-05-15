@@ -95,13 +95,6 @@ End-to-end cloud management for UK workshops — replacing paper diaries and clu
 | 📊 **Business Analytics** | Profit, utilisation, and repeat-work reports in real time |
 | 🛡️ **GDPR & Tracking** | CookieYes, Meta Pixel, Google Ads conversion tracking built in |
 
-> 💬 **Real Customer Reviews:**
-> - *"GarageKing has been a game-changer for us… reminders and invoicing save us hours each week."* — **Charlie, A1 MOT Centre**
-> - *"Fewer no-shows and less chasing customers already."* — **Scott, A2B MOT Bedlington**
-> - *"Clean, straightforward, and it keeps the diary organised."* — **Ari, Kelcos MOT**
-
-**Stack:** `ASP.NET Core MVC` · `Bootstrap` · `jQuery` · `SQL Server` · `Tawk.to Live Chat` · `Google Analytics` · `Facebook Pixel`
-
 ---
 
 ### 🏭 ForkLiftPro — Forklift Field Service Management
